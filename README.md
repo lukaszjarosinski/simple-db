@@ -1,4 +1,4 @@
-# MySQL queries
+# Simple DB
 Prosta klasa PHP, umo¿liwiaj±ca podstawow± obs³ugê baz danych MySQL z u¿yciem rozszerzenia PDO. Obs³uguje najczê¶ciej wykorzystywane w codziennej pracy rodzaje zapytañ.
 ## Dzia³anie
 Na pocz±tek ³±czymy siê z baz± danych
